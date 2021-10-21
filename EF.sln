@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_03_CUD", "EF_03_CUD\EF_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_04_SP_Queries", "EF_04_SP_Queries\EF_04_SP_Queries.csproj", "{3FD73F76-0FBC-4AAD-861C-60E1B34795A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_05_DetaildatenLaden", "EF_05_DetaildatenLaden\EF_05_DetaildatenLaden.csproj", "{0FC87AC1-2F83-44E0-A105-1721C514D2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_06_EagerLoading", "EF_06_EagerLoading\EF_06_EagerLoading.csproj", "{CEDFB595-1E20-4142-909C-30D166AC6707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{3FD73F76-0FBC-4AAD-861C-60E1B34795A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FD73F76-0FBC-4AAD-861C-60E1B34795A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FD73F76-0FBC-4AAD-861C-60E1B34795A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC87AC1-2F83-44E0-A105-1721C514D2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC87AC1-2F83-44E0-A105-1721C514D2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC87AC1-2F83-44E0-A105-1721C514D2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC87AC1-2F83-44E0-A105-1721C514D2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDFB595-1E20-4142-909C-30D166AC6707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDFB595-1E20-4142-909C-30D166AC6707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDFB595-1E20-4142-909C-30D166AC6707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDFB595-1E20-4142-909C-30D166AC6707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
